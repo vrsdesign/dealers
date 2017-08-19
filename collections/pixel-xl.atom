@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/pixel-xl.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-05T10:16:05-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/8743592198</id>
+    <published>2017-01-05T10:16:05-08:00</published>
+    <updated>2017-01-05T10:16:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/pixel-xl-case-crystal-bumper-series"/>
+    <title>Pixel XL Case Crystal Bumper Series</title>
+    <s:type>Pixel XL Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/pixel_xl_crystal_bumper_dark_silver_main.jpg?v=1487167277" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Pixel XL Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for Pixel XL. Tested and compliant Military Grade Certified Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Google Pixel XL</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.34" x 3.23" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.73 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane (kickstand:Metal)</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_pixel_xl_crystal_bumper.png" alt="Pixel XL_Crystal Bumper"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_5620e72b-f501-46de-9a12-90c0c2ca4f23.jpg?v=1477516454" alt="Pixel XL_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743592198</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743592198</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743592198</id>
+      <title>Really Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-CRBRB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8743765766</id>
+    <published>2017-01-05T10:16:05-08:00</published>
+    <updated>2017-01-05T10:16:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/pixel-xl-case-high-pro-shield-series"/>
+    <title>Pixel XL Case High Pro Shield Series</title>
+    <s:type>Pixel XL Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/pixel_xl_high_pro_shield_really_blue_main.jpg?v=1487169502" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Pixel XL Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with shock-resistant High Pro Shield for Pixel XL. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Google Pixel XL</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.34" x 3.23" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.73 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane (kickstand:Metal)</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_pixel_xl_high_pro_shield.png" alt="Pixel XL_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_45b1fd6b-cf85-4d63-ad71-44c921fbd2ee.jpg?v=1477517864" alt="Pixel XL_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743765766</id>
+      <title>Really Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-HPSRB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743765766</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8743765766</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSPXL-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8764400006</id>
+    <published>2017-01-05T10:16:05-08:00</published>
+    <updated>2017-01-05T10:16:05-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/pixel-xl-case-simpli-mod-series"/>
+    <title>Pixel XL Case Simpli Mod Series</title>
+    <s:type>Pixel XL Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/pixel_xl_simpli_mod_black_main.jpg?v=1487170301" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Pixel XL Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Style your device with modern accents. The Simpli Mod artfully combines two premium materials into one lightweight package for your Pixel XL._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Google Pixel XL</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.22" x 3.07" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.41 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img src="//cdn.shopify.com/s/files/1/1270/3733/files/product_specs_pixel_xl_simpli_mod_abe130a6-e6d0-4c5c-ae84-b4788a9ae622.png?v=1482187883" alt="Pixel XL_Simpli Mod"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/simpli_mod_9c7298d8-25b8-4e1f-895f-19f9735aa299.jpg?v=1482187936" alt="Pixel XL_Simpli Mod"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Pixel XL</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8764400006</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSPXL-SMDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8764400006</id>
+      <title>Brown</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSPXL-SMDBR</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8764400006</id>
+      <title>black Satin Silver</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSPXL-SMDBKS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

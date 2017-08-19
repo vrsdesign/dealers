@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/galaxy-note-8.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-03-01T11:51:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/11437595477</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-crystal-bumper-series"/>
+    <title>Galaxy Note 8 Case Crystal Bumper Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_crystal_bumper_metallic_silver_main.jpg?v=1502224239" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Crystal Clear Choice</strong></p>
+<p>Crystal Bumper for Galaxy Note 8 is perfect for showcasing your new Galaxy by accenting the color palette with matching bumpers and a clear body that lets you show off your Galaxy Note 8. This case is also lab-tested to provide a Miltary Grade layer of defense against drops. MIL-STD 810G-516.6 compliant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437595477</id>
+      <title>Metallic Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437595477</id>
+      <title>Orchid Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-CRBOG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437595477</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437595477</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437595477</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-CRBBC</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/11437931413</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-high-pro-shield-series"/>
+    <title>Galaxy Note 8 Case High Pro Shield Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_high_pro_shield_metallic_black_main.jpg?v=1502225621" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pocket-Friendly Protection</strong></p>
+<p>High Pro shield for Galaxy Note 8 is a lab-tested case that creates a Military Grade layer of defense against daily drops and bumps. Reinforced dual-layer construction guarantees protection in a slim form that feels good in your hand and fits right in your pocket. MIL-STD 810G-516.6 compliant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>Metallic Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSBC</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>Orchid Gray</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSOG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>orchid gray s</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSOS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11437931413</id>
+      <title>rose gold s</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSGN8-HPSRS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/11438145621</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-damda-glide-series"/>
+    <title>Galaxy Note 8 Case Damda Glide Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_damda_glide_orchid_gray_main.jpg?v=1501891082" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Pocket-Friendly Protection</strong></p>
+<p>High Pro shield for Galaxy Note 8 is a lab-tested case that creates a Military Grade layer of defense against daily drops and bumps. Reinforced dual-layer construction guarantees protection in a slim form that feels good in your hand and fits right in your pocket. MIL-STD 810G-516.6 compliant.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>Metallic Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLBC</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>Orchid Gray</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLOG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438145621</id>
+      <title>White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSGN8-DGLWT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/11438324821</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-single-fit-series"/>
+    <title>Galaxy Note 8 Case Single Fit Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_single_fit_black_main.jpg?v=1501886783" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Back To Basics</p>
+<p>The Single Fit Galaxy Note 8 case uses a single layer of shock-absorbing TPU to provide a daily cushion for your Galaxy. TPU is a lightweight and flexible material that disperses shock upon impact. Case includes button covers that keep out dust and improves tactile feedback.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438324821</id>
+      <title>Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSGN8-SFTBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438324821</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSGN8-SFTRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/11438387541</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-layered-dandy-series"/>
+    <title>Galaxy Note 8 Case Layered Dandy Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_layered_dandy_black_main.jpg?v=1501887245" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Classy Leather Wallet</strong></p>
+<p>The Layered Dandy Galaxy Note 8 wallet case brings understated sophistication to the palm of your hand. Use the carefully crafted slots and pockets to carry your cards and case. Enjoy the premium PU leather finish contrasted with detailed stitching to complete a stylish look.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438387541</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSGN8-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11438387541</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSGN8-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/11483196629</id>
+    <published>2017-03-01T11:51:00-08:00</published>
+    <updated>2017-03-01T11:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-8-case-crystal-touch-series"/>
+    <title>Galaxy Note 8 Case Crystal Touch Series</title>
+    <s:type>Galaxy Note 8 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/note_8_crystal_touch_clear_main.jpg?v=1502228796" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 8 Cases<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Light As Air</strong></p>
+<meta charset="utf-8"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p><span data-sheets-value='{"1":2,"2":"The Crystal Touch Galaxy Note 8 illustrates the perfect barely-there look for your Galaxy. Equip your Galaxy Note 8 with this snug TPU case that protects every corner and edge without adding bulk to your phone."}' data-sheets-userformat='{"2":5055,"3":[null,0],"4":[null,2,16777215],"5":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":[null,2,0]},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"10":2,"11":4,"12":0,"15":"arial,sans,sans-serif"}'>The Crystal Touch Galaxy Note 8 illustrates the perfect barely-there look for your Galaxy. Equip your Galaxy Note 8 with this snug TPU case that protects every corner and edge and adds only 1.5mm to your Galaxy.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/11483196629</id>
+      <title>Clear</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSGN8-CRTCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

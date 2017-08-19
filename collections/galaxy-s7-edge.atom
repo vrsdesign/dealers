@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/galaxy-s7-edge.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:43:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/7905419206</id>
+    <published>2017-01-03T11:43:00-08:00</published>
+    <updated>2017-01-03T11:43:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/damda-glide-series-1"/>
+    <title>Galaxy S7 Edge Case Damda Glide Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/s7_edge_damda_glide_shine_gold_main.jpg?v=1487165730" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The new Damda Glide for Galaxy S7 Edge showcases an enhanced sliding compartment. Simply push to slide open and close to access your cards_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Galaxy S7 Edge</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.14" x 3.07" x 0.55"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.0 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_damda_glide.png" alt="Galaxy S7 Edge_Damda Glide"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/damda_glide_b88aa807-6c28-4312-98a9-ef20c9279da8.jpg?v=1477673258" alt="Galaxy S7 Edge_Damda Glide"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7905419206</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-DGLGD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7905419206</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-DGLSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7905419206</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-DGLDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7905419206</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-DGLRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7905419206</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-DGLBC</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356024838</id>
+    <published>2017-01-03T11:37:21-08:00</published>
+    <updated>2017-01-03T11:37:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-high-pro-shield"/>
+    <title>Galaxy S7 Edge Case High Pro Shield Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/4.steel_silver_eb547c87-b7fb-4726-9b4c-45c7f123e1b9.jpg?v=1487170565" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for Galaxy S7 Edge. Features a brushed metal back design and boasts Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.20" x 3.15" x 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.2 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_-high_pro_shield.png?6219421355147278014" alt="Galaxy S7 Edge_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_c116570f-a4be-40ff-b341-6274e6ac87c8.jpg?2095205064979112098" alt="Galaxy S7 Edge_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Galaxy S7 Edge_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356024838</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356024838</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356024838</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356024838</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356024838</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-HPSBC</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356040454</id>
+    <published>2017-01-03T11:37:21-08:00</published>
+    <updated>2017-01-03T11:37:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-crystal-bumper"/>
+    <title>Galaxy S7 Edge Case Crystal Bumper Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.satin-silver_f2e01b19-e941-4af4-81b7-dc76c6d3d758.jpg?v=1487170651" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for Galaxy S7 Edge. Tested and compliant Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.20" x 3.15" x 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.2 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_crystal_bumper.png?6219421355147278014" alt="Galaxy S7 Edge_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_a3c51700-0173-4fad-a06c-8dbfe681653a.jpg?13618148355532297305" alt="Galaxy S7 Edge_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Galaxy S7 Edge_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356040454</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356040454</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356040454</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356040454</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356040454</id>
+      <title>Blue Coral</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSG7E-CRBBC</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356036934</id>
+    <published>2017-01-03T11:37:21-08:00</published>
+    <updated>2017-01-03T11:37:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-crystal-mixx"/>
+    <title>Galaxy S7 Edge Case Crystal Mixx Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.Celar_2dbd682b-d35a-4f61-b193-48260912e27f.jpg?v=1483751759" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Show off your device in the clear Crystal Mixx for Galaxy S7 Edge</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.10" x 3.00" x 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">0.9 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_crystal_mixx.png?6219421355147278014" alt="Galaxy S7 Edge_Crystal Mixx"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_mixx_7210dd83-ee8c-4805-9c85-fc98d5467306.jpg?10726314749486488050" alt="Galaxy S7 Edge_Crystal Mixx"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356036934</id>
+      <title>Clear</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSG7E-CMXCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356036934</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSG7E-CMXBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356032134</id>
+    <published>2017-01-03T11:37:21-08:00</published>
+    <updated>2017-01-03T11:37:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-damda-clip"/>
+    <title>Galaxy S7 Edge Case Damda Clip Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.shine-gold_12ff6da6-25a0-4c64-910a-14fd03e3413e.jpg?v=1487167039" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Convenient and compact card case for your Galaxy S7 Edge. The dual-layer construction also features Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.10" x 3.00" x 0.55"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.8 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_damda_clip.png?6219421355147278014" alt="Galaxy S7 Edge_Damda Clip"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/damda_clip_51dbd72e-5e50-493a-9a07-bbd7e08a05f1.jpg?15450669485558013938" alt="Galaxy S7 Edge_Damda Clip"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="Galaxy S7 Edge_Damda Clip"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356032134</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-DCPGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356032134</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-DCPRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356032134</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-DCPDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356032134</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-DCPSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356032134</id>
+      <title>White</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-DCPWE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356020294</id>
+    <published>2017-01-03T11:37:20-08:00</published>
+    <updated>2017-01-03T11:37:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-layered-dandy"/>
+    <title>Galaxy S7 Edge Case Layered Dandy Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.Black_c85c4ee7-41a8-4b8e-b6d1-c8bdf19c1d7b.jpg?v=1487166212" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your Galaxy S7 Edge in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.00" x 3.25" x 0.55"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.9 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">PU Leather, Polycarbonate</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_layered_dandy.png?6219421355147278014" alt="Galaxy S7 Edge_Layered Dandy"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_80da6047-a771-4e48-ae1a-8e113ca5e28d.jpg?8181423209834031389" alt="Galaxy S7 Edge_Layered Dandy"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356020294</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSG7E-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356020294</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSG7E-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356020294</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSG7E-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356016838</id>
+    <published>2017-01-03T11:37:20-08:00</published>
+    <updated>2017-01-03T11:37:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-shine-guard"/>
+    <title>Galaxy S7 Edge Case Shine Guard Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-clear_d9a3cb93-a092-487b-8600-4950fab83c4b.jpg?v=1487165561" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your Galaxy S7 Edge with the Shine Guard. Designed with impact-resistant bumpers and a frosted geometric design</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.20" x 3.10" x 0.50"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">0.9 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_shine_guard.png?6219421355147278014" alt="Galaxy S7 Edge_Shine Guard"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/shine_guard_8e594f0e-d094-41b5-9416-3ffeff7cf5b2.jpg?6140289702124941169" alt="Galaxy S7 Edge_Shine Guard"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356016838</id>
+      <title>Clear</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-SGDCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356016838</id>
+      <title>Black</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-SGDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356016838</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSG7E-SGDGY</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356011270</id>
+    <published>2017-01-03T11:37:20-08:00</published>
+    <updated>2017-01-03T11:37:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-single-fit"/>
+    <title>Galaxy S7 Edge Case Single Fit Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-Blossom_Red_e26bb0be-ccf9-49e2-9031-3c256583ef8d.jpg?v=1487167170" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Matte TPU hugs every edge of your Galaxy S7 Edge. Also features eye-catching metallic button accents</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.10" x 3.00" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.2 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_single_fit.png?6219421355147278014" alt="Galaxy S7 Edge_Single Fit"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/single_fit_64134e53-829e-4122-92b1-8dbf23cdc6c5.jpg?10577548070159656804" alt="Galaxy S7 Edge_Single Fit"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356011270</id>
+      <title>Blossom Red</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSG7E-SFTRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356011270</id>
+      <title>Ice Mint</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSG7E-SFTMT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356011270</id>
+      <title>Phantom Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSG7E-SFTDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356011270</id>
+      <title>Smokey Gray</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSG7E-SFTSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356011270</id>
+      <title>Snow Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSG7E-SFTHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356005958</id>
+    <published>2017-01-03T11:37:20-08:00</published>
+    <updated>2017-01-03T11:37:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s7-edge-case-triple-mixx"/>
+    <title>Galaxy S7 Edge Case Triple Mixx Series</title>
+    <s:type>Galaxy S7 Edge Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.rose-gold_9b3a7f56-95b7-495e-800e-025b1fbd749d.jpg?v=1487166610" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S7 Edge Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Multi-layer, impact-resistant case for your Galaxy S7 Edge. Features a unique raised ridge pattern for added grip and style</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S7 Edge</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.15" x 3.00" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.1 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_s7_edge_triple_mixx.png?6219421355147278014" alt="Galaxy S7 Edge_Triple Mixx"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/triple_mixx_e49ef1b2-88bf-466f-b931-cac7723d8921.jpg?2639664880720256427" alt="Galaxy S7 Edge_Triple Mixx"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="Galaxy S7 Edge_Triple Mixx"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S7 Edge</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356005958</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-TMXRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356005958</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-TMXGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356005958</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-TMXDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356005958</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSG7E-TMXSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/ipad-pro-12-9.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:48:11-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6783120710</id>
+    <published>2017-01-03T11:48:11-08:00</published>
+    <updated>2017-01-03T11:48:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/ipad-pro-12-9-case-layered-dandy"/>
+    <title>iPad Pro 12.9 Case Layered Dandy Series</title>
+    <s:type>iPad Pro 12.9 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.black.jpg?v=1487159851" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPad Pro 12.9 Cases<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your iPad Pro 12.9 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPad Pro</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">12.0" x 8.80" x 0.55"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">13.3 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, PU Leather</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_ipad_pro_12.9_layered_dandy.png?2402214012465363029" alt="iPad Pro 12.9_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_72df19f9-cc1d-4b20-851a-d83a7fa1719c.jpg?6848822316889868025" alt="iPad Pro 12.9_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPad Pro</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783120710</id>
+      <title>Black</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>VRSIPP-LDDBK</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783120710</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>VRSIPP-LDDCE</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783120710</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>VRSIPP-LDDRD</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/nexus-6p.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-05T10:20:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6782965062</id>
+    <published>2017-01-05T10:20:00-08:00</published>
+    <updated>2017-01-05T10:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/nexus-6p-case-high-pro-shield"/>
+    <title>Nexus 6P Case High Pro Shield Series</title>
+    <s:type>Nexus 6P Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_satin_silver_a4a3913a-d773-45a2-b899-bb34181207a8.jpg?v=1487167110" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Nexus 6P Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for Nexus 6P. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Nexus 6P</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.50" x 3.25" x 0.37"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.2 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_nexus_6p_high_pro_shield.png?13606518232804607913" alt="Nexus 6P_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_5455d5c0-6d69-4a21-9f92-faf3246d7382.jpg?6116396336805837589" alt="Nexus 6P_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Nexus 6P_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Nexus 6P</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965062</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX6H-HPSSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965062</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX6H-HPSDS</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965062</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX6H-HPSGD</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965062</id>
+      <title>Crimson Red</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX6H-HPSRD</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965062</id>
+      <title>Electric Blue</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX6H-HPSBE</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

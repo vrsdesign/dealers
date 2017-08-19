@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/lg-v20.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:46:58-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/8652231686</id>
+    <published>2017-01-03T11:46:58-08:00</published>
+    <updated>2017-01-03T11:46:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-v20-case-carbon-fit"/>
+    <title>LG V20 Case Carbon Fit Series</title>
+    <s:type>LG V20 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_v20_carbon_fit_black_main.jpg?v=1487161069" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG V20 Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protection that matches your style, Carbon Fit for LG V20. encases your device in sturdy TPU and provides extra grips with carbon fiber design._</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">LG V20</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.42" x 3.23" x 0.47"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.48 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_lg_v20_carbon_fit.png" alt="LG V20_Carbon Fit"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/carbon_fit_5f781239-d78b-4758-80b4-2a3d56841876.jpg?v=1477694379" alt="LG V20_Carbon Fit"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG V20</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231686</id>
+      <title>Phantom Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSV20-CBFBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8652231558</id>
+    <published>2017-01-03T11:45:55-08:00</published>
+    <updated>2017-01-03T11:45:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-v20-case-high-pro-shield"/>
+    <title>LG V20 Case High Pro Shield Series</title>
+    <s:type>LG V20 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_v20_high_pro_shield_steel_silver_main.jpg?v=1487167896" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG V20 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for LG V20. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG V20</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.50" x 3.34" x 0.50"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.66 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_lg_v20_high_pro_shield.png" alt="LG V20_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_7b47daf7-d4f7-4bcf-a28d-05e85af1bf24.jpg?v=1477695291" alt="LG V20_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG V20</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231558</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231558</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231558</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8682871046</id>
+    <published>2017-01-03T11:45:55-08:00</published>
+    <updated>2017-01-03T11:45:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/layered-dandy-series"/>
+    <title>LG V20 Case Layered Dandy Series</title>
+    <s:type>LG V20 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_v20_layered_dandy_coffee_brown_main.jpg?v=1487169447" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG V20 Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your LG V20 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG V20</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.38" x 3.35" x 0.59"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.08 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_lg_v20_layered_dandy.png" alt="LG V20_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_b4ccd2c8-d410-4c94-8fb7-e3cb155384c7.jpg?v=1477695757" alt="LG V20_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG V20</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8682871046</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSV20-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8682871046</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSV20-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8682871046</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSV20-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8652231430</id>
+    <published>2017-01-03T11:45:54-08:00</published>
+    <updated>2017-01-03T11:45:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-v20-case-crystal-bumper"/>
+    <title>LG V20 Case Crystal Bumper Series</title>
+    <s:type>LG V20 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_v20_crystal_bumper_rose_gold_main.jpg?v=1487163581" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG V20 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for LG V20. Tested and compliant Military Grade Certified Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">LG V20</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.50" x 3.34" x 0.50"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.66 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_lg_v20_crystal_bumper.png" alt="LG V20_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_0bb74bfc-e810-4e22-883e-6944c264fd26.jpg?v=1477694644" alt="LG V20_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG V20</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231430</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231430</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8652231430</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSV20-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8717138310</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-v20-case-genuine-leather-series"/>
+    <title>LG V20 Case Genuine Leather Dairy Series</title>
+    <s:type>LG V20 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_v20_brown_main.jpg?v=1487167669" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG V20 Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Classic and clean Genuine Leather Diary covers your LG V20 with premium leather protection while carrying your cards and cash._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG V20</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.54" x 3.46" x 0.71"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.30 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Genuine Leather</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_lg_v20_genuine_leather_diary.png" alt="LG V20_Genuine Leather Diary"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/genuine_leather_diary_35136ed8-4f33-41cb-89df-87e567b10010.jpg?v=1477694486" alt="LG V20_Genuine Leather Diary"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG V20</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8717138310</id>
+      <title>Brown</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSV20-GLDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8717138310</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSV20-GLDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8717138310</id>
+      <title>Navy</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSV20-GLDBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

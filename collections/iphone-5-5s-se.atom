@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/iphone-5-5s-se.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:40:50-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6783118214</id>
+    <published>2017-01-03T11:40:50-08:00</published>
+    <updated>2017-01-03T11:40:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-5-5s-se-case-layered-dandy"/>
+    <title>iPhone 5/5s/SE Case Layered Dandy Series</title>
+    <s:type>iPhone 5/5s/SE Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_se_layered_dandy_coffee_brown_main.jpg?v=1489621006" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 5/5s/SE Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your iPhone 5 / 5s / SE in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 5 / 5s / SE</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.30" x 2.55" x 0.60"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.4 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, PU Leather</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_5_5s_se_layered_dandy.png?9253016544989182964" alt="iPhone 5 / 5s / SE_Layered Dandy"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_5de7d69d-001d-4b44-bd92-0579cbfb8af6.jpg?3765436647228666351" alt="iPhone 5 / 5s / SE_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 5/5s/SE</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118214</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSI5E-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118214</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSI5E-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118214</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSI5E-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783118406</id>
+    <published>2017-01-03T11:40:50-08:00</published>
+    <updated>2017-01-03T11:40:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-5-5s-se-case-crystal-bumper"/>
+    <title>iPhone 5/5s/SE Case Crystal Bumper Series</title>
+    <s:type>iPhone 5/5s/SE Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/3.shine_gold_new_2_d6a75dbd-79e8-4769-b362-5d6c310d7b5d.jpg?v=1487165477" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 5/5s/SE Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for iPhone 5 / 5s / SE. Tested and compliant Military Grade Certified Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 5 / 5s / SE</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.20" x 2.55" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">0.8 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_5_5s_se_crystal_bumper.png?9253016544989182964" alt="iPhone 5 / 5s / SE_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_462246c2-109a-4c9b-8c98-2304dd705098.jpg?11833517785983386976" alt="iPhone 5 / 5s / SE_Crystal Bumper"></p><p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="iPhone 5 / 5s / SE_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 5/5s/SE</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118406</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118406</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118406</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118406</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783118278</id>
+    <published>2017-01-03T11:40:50-08:00</published>
+    <updated>2017-01-03T11:40:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-5-5s-se-case-high-pro-shield"/>
+    <title>iPhone 5/5s/SE Case High Pro Shield Series</title>
+    <s:type>iPhone 5/5s/SE Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_steel_silver_black.jpg?v=1487166828" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 5/5s/SE Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for iPhone 5 / 5s / SE. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 5 / 5s / SE</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.20" x 2.55" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">0.8 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_5_5s_se_high_pro_shield.png?9253016544989182964" alt="iPhone 5 / 5s / SE_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_29306257-c6fc-4d52-8f34-364e3caf005c.jpg?6893018654441918489" alt="iPhone 5 / 5s / SE_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="iPhone 5 / 5s / SE_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 5/5s/SE</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118278</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118278</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118278</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118278</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSI5E-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783118086</id>
+    <published>2017-01-03T11:40:50-08:00</published>
+    <updated>2017-01-03T11:40:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-5-5s-se-case-thor"/>
+    <title>iPhone 5/5s/SE Case Thor Series</title>
+    <s:type>iPhone 5/5s/SE Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-rosegold.jpg?v=1487164811" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 5/5s/SE Cases<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Sleek and tough Thor for iPhone 5 / 5s / SE features a shock absorbing body with a hard backplate that boasts Military Grade Certified Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 5 / 5s / SE</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.30" x 2.80" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.6 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_5_5s_se_thor.png?9253016544989182964" alt="iPhone 5 / 5s / SE_Thor"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/thor_f41358f3-7327-40e6-b69e-70ee658f0773.jpg?11523293908913406094" alt="iPhone 5 / 5s / SE_Thor"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="iPhone 5 / 5s / SE_Thor"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Hard Drop</s:tag>
+    <s:tag>iPhone 5/5s/SE</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118086</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSI5E-TORRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118086</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSI5E-TORDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118086</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSI5E-TORGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118086</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSI5E-TORSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/huawei-mate-9.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-05T10:16:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/9255014918</id>
+    <published>2017-01-05T10:16:00-08:00</published>
+    <updated>2017-01-05T10:16:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/huawei-mate-9-case-simpli-mod-series"/>
+    <title>Huawei Mate 9 Case Simpli Mod Series</title>
+    <s:type>Huawei Mate 9 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/huawei_mate_9_simpli_mod_black_main.jpg?v=1487168052" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Huawei Mate 9 Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b>Modern + Simplicity</b> <br>Style your device with modern accents. The Simpli Mod artfully combines two premium materials into one lightweight package for your Huawei Mate 9._</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Huawei Mate 9</s:tag>
+    <s:tag>Pre Order</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9255014918</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSMT9-SMDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9255014918</id>
+      <title>Brown</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSMT9-SMDBR</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

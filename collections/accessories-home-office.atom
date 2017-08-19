@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/accessories-home-office.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:51:20-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6793872582</id>
+    <published>2017-01-03T11:51:20-08:00</published>
+    <updated>2017-01-03T11:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-slate"/>
+    <title>Accessories Slate Aluminum Mouse Pad</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-Light_Silver_main.jpg?v=1487165756" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The Slate is an aluminum metal mouse pad that comes with a handy removeable and fully rotating device stand_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Slate</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">7.48" x 9.84" x 0.12"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">13.8 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Aluminum</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_slate.png?3888482344966752291" alt="Accessory_Slate"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/slate_80fb2e22-599d-42fc-aa9e-9e491bfcf602.jpg?9101660838454417730" alt="Accessory_Slate"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793872582</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSACY-SLTSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793872582</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSACY-SLTRG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6793133702</id>
+    <published>2017-01-03T11:51:20-08:00</published>
+    <updated>2017-01-03T11:51:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-i-boom"/>
+    <title>Accessories i-Boom Bluetooth Speaker</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-Light_Silver.jpg?v=1487170037" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The i-Boom is a portable wireless speaker that features Bluetooth 4.0 and offers touch controls for easy listening wherever you go_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">I-BOOM BLUETOOTH SPEAKER</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">4.02" x 3.15" x 3.35"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">15.3 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Metal Mesh, Polycarbonate, Aluminum</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_i_boom.png?3888482344966752291" alt="Accessory_i-Boom"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/i-boom_d1f291a4-f944-4bc0-9a98-c05b16b011de.jpg?2581740027547913588" alt="Accessory_i-Boom"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793133702</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSACY-IBMGD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793133702</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSACY-IBMRG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793133702</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSACY-IBMSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6793133702</id>
+      <title>Titanium Silver</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSACY-IBMDS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/accessories-travel.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-06T16:16:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/7355414470</id>
+    <published>2017-01-06T16:16:00-08:00</published>
+    <updated>2017-01-06T16:16:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-magnetic-flat"/>
+    <title>iPhone 6/6s Case Magnetic Flat Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_dark_silver_5a71f6c2-af28-43c2-a75d-8c343d0d4564.jpg?v=1487163841" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Take your iPhone 6 / 6s out on the road with the Magnetic Flat. Combines the rugged Verge case with a magnetic vent mount for easy viewing while you drive</div><div>_</div><table class="spec-chart col-md-5 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6 / 6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">Case : 5.65" X 2.87" X 0.45" / Mount : 2.25" X 1.50"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.6 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Iron, Neodymium, Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-5 hidden-sm hidden-xs spec-img" style="margin-left: 50px;"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/magnetic-plat.png?1781806172598628961" alt="iPhone 6 / 6s_Magnetic Flat"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/magnetic_flat.jpg?4794928719977559827" alt="iPhone 6 / 6s_Magnetic Flat"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duo Guard</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Military Green</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFGN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFBP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783121030</id>
+    <published>2017-01-03T11:50:21-08:00</published>
+    <updated>2017-01-03T11:50:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-magnetic-grab"/>
+    <title>Accessories Magnetic Grab Car Mount</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_gold.jpg?v=1487116891" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Bring handsfree convenience to your car with the Magnetic Grab. Designed with a magnetic mount that scures to your dashboard or window_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">MAGNETIC GRAB CAR MOUNT</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">4.80" x 3.46" x 2.50"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">8.8 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_magnetic_grab.png?4590947008611893761" alt="accessories_magnetic_grab"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/magnetic_grab_be7558d6-e683-4f63-bef1-85d667f064f9.jpg?17089011332355482525" alt="accessories_magnetic_grab"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121030</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSSPS-MGBGD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121030</id>
+      <title>Titanium Silver</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSSPS-MGBDS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121030</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSSPS-MGBSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783121286</id>
+    <published>2017-01-03T11:50:00-08:00</published>
+    <updated>2017-01-03T11:50:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-hybrid-grab"/>
+    <title>Accessories Hybrid Grab Car Mount</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_satin_silver.jpg?v=1487165744" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Secure your device with the Hybrid Grab. Mount onto your dashboard or window for easy handsfree viewing._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">HYBRID GRAB CAR MOUNT</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">3.07" x 4.80" x 3.46"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.6 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_hybrid_grab.png?4590947008611893761" alt="accessories_hybrid_grab"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/hybrid_grab_9820acbb-4387-47dd-8ecf-8d747d870ad2.jpg?7413264701532701927" alt="accessories_hybrid_grab"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121286</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSPS-HGBSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121286</id>
+      <title>Titanium Silver</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSPS-HGBDS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121286</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">32.99</s:price>
+      <s:sku>VRSPS-HGBGD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

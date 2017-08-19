@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/iphone-7-plus.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-02-16T16:52:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/8496241094</id>
+    <published>2017-02-16T16:52:00-08:00</published>
+    <updated>2017-02-16T16:52:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/carbon-fit-series"/>
+    <title>iPhone 7 Plus Case Carbon Fit Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_carbon_fit_phantom_black_main.jpg?v=1487157899" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protection that matches your style, Carbon Fit for iPhone 7 Plus. encases your device in sturdy TPU and provides extra grips with carbon fiber design._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.38" x 3.27" x 0.47"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.36 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_carbon_fit.png" alt="iPhone 7 Plus Carbon Fit Series Case"></p>
+<img src="//cdn.shopify.com/s/files/1/1270/3733/files/carbon_fit_d3abd711-7a80-49f1-81c2-0e4261e1ed18.jpg?v=1477088877" alt="iPhone 7 Plus_Carbon Fit"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>Screen Protector</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8496241094</id>
+      <title>Phantom Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSIP7P-CBFBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/8764400326</id>
+    <published>2017-01-03T17:15:00-08:00</published>
+    <updated>2017-01-03T17:15:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-simpli-mod-series"/>
+    <title>iPhone 7 Plus Case Simpli Mod Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_simpli_mod_black_satin_silver_main.jpg?v=1487167480" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Style your device with modern accents. The Simpli Mod artfully combines two premium materials into one lightweight package for your iPhone 7 Plus._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.30" x 3.23" x 0.39"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.48 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img src="//cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_simpli_mod_ed77116b-2b4b-4917-8244-c8171bfa0825.png?v=1482188153" alt=""></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/simpli_mod_3d37fe99-1751-4c01-b700-fc9332fcfc1f.jpg?v=1482188181" alt="iPhone 7 Plus_Simpli Mod"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8764400326</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSIP7P-SMDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/8764400326</id>
+      <title>Brown</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSIP7P-SMDBR</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929947910</id>
+    <published>2017-01-03T11:30:56-08:00</published>
+    <updated>2017-01-03T11:30:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-simpli-fit"/>
+    <title>iPhone 7 Plus Case Simpli Fit Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_simpli_fit_phantom_black_main.jpg?v=1487167867" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Simple yet essential, Simpli Fit for iPhone 7 Plus. Wrap your device in shock absorbing TPU for the essential layer of protection your device needs._</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.38" x 3.27" x 0.39"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.34 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_simpli_fit.png" alt="iPhone 7 Plus Simpli Fit Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/simpli_fit_624f5a25-98de-4ea1-90c1-8eee58ac6a0b.jpg?v=1476472429" alt="iPhone 7 Plus_Simpli Fit"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929947910</id>
+      <title>Phantom Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSIP7P-SPFBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849542</id>
+    <published>2017-01-03T11:30:56-08:00</published>
+    <updated>2017-01-03T11:30:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-high-pro-shield"/>
+    <title>iPhone 7 Plus Case High Pro Shield Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_high_pro_shield_jet_black_main.jpg?v=1491428059" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with shock-resistant High Pro Shield for iPhone 7 Plus. Features a brushed metal back design and boasts Tested and compliant Military Grade Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.46" x 3.30" x 0.43"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.27 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_high_pro_shield.png" alt="iPhone 7 Plus High Pro Shield Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_cf906dcd-2ac8-4c8b-9924-0988c2a59130.jpg?v=1476385368" alt="iPhone 7 Plus_Simpli Fit"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Steel Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSBB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849542</id>
+      <title>Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-HPSRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849670</id>
+    <published>2017-01-03T11:30:56-08:00</published>
+    <updated>2017-01-03T11:30:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-layered-dandy"/>
+    <title>iPhone 7 Plus Case Layered Dandy Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/coffee_brown_main.jpg?v=1487170138" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your iPhone 7 Plus in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.26" x 3.31" x 0.75"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">2.12 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polyurethane (PU) Leather, Polycarbonate</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_layered_dandy.png" alt="iPhone 7 Plus Layered Dandy Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_a37d86ac-645f-4897-b5d7-01cebc8044e5.jpg?v=1476386516" alt="iPhone 7 Plus_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849670</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849670</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849670</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849798</id>
+    <published>2017-01-03T11:30:56-08:00</published>
+    <updated>2017-01-03T11:30:56-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-native-diary"/>
+    <title>iPhone 7 Plus Case Native Diary Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/black_main_c6612654-fcc9-4e96-9d7e-92ba4691e66e.jpg?v=1487166501" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Smooth and secure Native Diary wraps your iPhone 7 Plus in genuine leather protection. Uses a magnetically guided clasp to keep your device, cards, and cash safe and sound._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.38" x 3.31" x 0.55"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.68 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Genuine Leather + PU</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_native_diary.png" alt="iPhone 7 Plus Native Diary Series Case"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/native_diary_6902691b-5492-45b3-9bf1-b7d0de788b0c.jpg?v=1476386680" alt="iPhone 7 Plus_Native Diary"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849798</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-NTDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849798</id>
+      <title>Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-NTDBR</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849798</id>
+      <title>Coffee brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-NTDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849798</id>
+      <title>Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSIP7P-NTDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849030</id>
+    <published>2017-01-03T11:30:55-08:00</published>
+    <updated>2017-01-03T11:30:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-crystal-mixx"/>
+    <title>iPhone 7 Plus Case Crystal Mixx Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_crystal_mixx_clear_main.jpg?v=1487170018" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Show off your device in the clear Crystal Mixx for iPhone 7 Plus_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.34" x 3.23" x 0.43"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.27 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_crystal_mixx.png" alt="iPhone 7 Plus Crystal Mixx Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_mixx_4d869ae3-04b3-48b2-8391-041f3ef70e9a.jpg?v=1476384843" alt="iPhone 7 Plus_Crystal Mixx"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849030</id>
+      <title>Clear</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSIP7P-CMXCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849030</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSIP7P-CMXRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849286</id>
+    <published>2017-01-03T11:30:55-08:00</published>
+    <updated>2017-01-03T11:30:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-duo-guard"/>
+    <title>iPhone 7 Plus Case Duo Guard Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_duo_guard_black_main.jpg?v=1487170241" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Rugged Duo Guard holds your iPhone 7 Plus in reinforced dual-layers. Tested and compliant Military Grade Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.41" x 3.23" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.69 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_duo_guard.png" alt="iPhone 7 Plus Duo Guard Series Case"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/duo_guard_d93f0899-c529-4b57-80e1-1d763d5072b7.jpg?v=1476385503" alt="iPhone 7 Plus_Duo Guard"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDBL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Titanium black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849286</id>
+      <title>Steel Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-DGDBB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849414</id>
+    <published>2017-01-03T11:30:55-08:00</published>
+    <updated>2017-01-03T11:30:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-genuine-croco-diary"/>
+    <title>iPhone 7 Plus Case Genuine Croco Diary Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/dark_gold_main_01f8f52b-813e-4b33-b694-0bc48d91ada2.jpg?v=1487159903" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Make a statement with the Genuine Croco Diary. Wrap your iPhone 7 Plus with premium style and protection. Includes card slots and a money compartment_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.41" x 3.46" x 0.59"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">3.31 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Genuine Leather</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_genuine_croco_diary.png" alt="iPhone 7 Plus Genuine Croco Diary Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/genuine_croco_diary_31a44e52-8376-489b-8873-f01f3afff27f.jpg?v=1476386942" alt="iPhone 7 Plus_Genuine Croco Diary"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849414</id>
+      <title>Dark Gold</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GCDGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849414</id>
+      <title>Satin Blue</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GCDBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849414</id>
+      <title>Plum Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GCDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849478</id>
+    <published>2017-01-03T11:30:55-08:00</published>
+    <updated>2017-01-03T11:30:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-genuine-leather-diary"/>
+    <title>iPhone 7 Plus Case Genuine Leather Diary Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/navy_main_835c8bd8-9872-4c2f-996e-dc138cd70cd4.jpg?v=1487169790" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Classic and clean Genuine Leather Diary covers your iPhone 7 Plus with premium leather protection while carrying your cards and cash._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.50" x 3.50" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.85 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Genuine Leather</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_genuine_leather_diary.png" alt="iPhone 7 Plus Genuine Leather Diary Series Case"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/genuine_leather_diary_e1837039-33e7-40ec-81f1-ccced5cd4937.jpg?v=1476386782" alt="iPhone 7 Plus_Genuine Leather Diary"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849478</id>
+      <title>Navy</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GLDBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849478</id>
+      <title>Brown</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GLDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849478</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIP7P-GLDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929848902</id>
+    <published>2017-01-03T11:30:54-08:00</published>
+    <updated>2017-01-03T11:30:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-crystal-bumper"/>
+    <title>iPhone 7 Plus Case Crystal Bumper Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_crystal_bumper_rose_gold_main.jpg?v=1491427896" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for iPhone 7 Plus. Tested and compliant Military Grade Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 7 Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.46" x 3.30" x 0.43"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.66 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_crystal_bumper.png" alt="iPhone 7 Plus Crystal Bumper Series Case"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_76e04d96-7515-40fa-806e-156c04823f6d.jpg?v=1476383437" alt="iPhone 7 Plus_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Jet Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Steel Blue</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBBB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929848902</id>
+      <title>Red</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSIP7P-CRBRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929948038</id>
+    <published>2017-01-03T11:30:00-08:00</published>
+    <updated>2017-01-03T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-simpli-lite"/>
+    <title>iPhone 7 Plus Case Simpli Lite Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_simpli_lite_champagne_gold_main.jpg?v=1487169783" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Lightweight and slim Simpli Lite brings your iPhone 7 Plus protection and convenience. Use the added kickstand to watch videos and videochat in comfort._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.26" x 3.19" x 0.43"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.06 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">
+<p>Polycarbonate</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_simpli_lite.png" alt="iPhone 7 Plus Simpli Lite Series Case"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/simpli_lite_b82339c5-8012-4f8e-a684-017ea9c7e9f1.jpg?v=1476383070" alt="iPhone 7 Plus_Simpli Lite"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Titanium black</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Steel Blue</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLBB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929948038</id>
+      <title>Black</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>VRSIP7P-SPLBL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7929849222</id>
+    <published>2017-01-03T11:30:00-08:00</published>
+    <updated>2017-01-03T11:30:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-7-plus-case-damda-glide"/>
+    <title>iPhone 7 Plus Case Damda Glide Series</title>
+    <s:type>iPhone 7 Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_7_plus_damda_glide_steel_black_main.jpg?v=1487170560" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 7 Plus Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The new Damda Glide for iPhone 7 Plus showcases an enhanced sliding compartment. Simply push to slide open and close to access your cards in a flash.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 7 Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.46" x 3.27" x 0.55"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.19 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_iphone_7_plus_damda_glide.png" alt="iPhone 7 Plus Damda Glide Series Case"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/damda_glide_8d24a4bf-bb38-4e24-9f7d-df812094ba52.jpg?v=1476386207" alt="iPhone 7 Plus_Damda Glide"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 7 Plus</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLBL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Indie Yellow</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLYW</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Apple Red</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7929849222</id>
+      <title>Steel Blue</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSIP7P-DGLBB</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

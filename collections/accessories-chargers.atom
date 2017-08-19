@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/accessories-chargers.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:50:22-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6783121158</id>
+    <published>2017-01-03T11:50:22-08:00</published>
+    <updated>2017-01-03T11:50:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-i-depot"/>
+    <title>Accessories i-Depot Charging Dock</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/VRSPS-IDTGD1.jpg?v=1487169384" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span data-sheets-value='{"1":2,"2":"The i-Depot functions as a charging dock for your phone or tablet plus convenient tabletop organizer. Compatible with lighting and USB-C type chargers"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>The i-Depot functions as a charging dock for your phone or tablet plus convenient tabletop organizer. Compatible with lighting and USB-C type chargers._</span></div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">i-DEPOT</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">4.01" x 3.66" x 3.35"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">10.9 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Aluminum</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_i_depot.png?3888482344966752291" alt="Accessory_i-Depot"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/i-depot.jpg?18429687999507189173" alt="Accessory_i-Depot"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121158</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSSPS-IDTGD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121158</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSSPS-IDTRG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121158</id>
+      <title>Titanium Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSSPS-IDTDS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121158</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSSPS-IDTSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783121094</id>
+    <published>2017-01-03T11:50:22-08:00</published>
+    <updated>2017-01-03T11:50:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/accessories-i-depot-plus"/>
+    <title>Accessories i-Depot Plus Charging Dock</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_rose_gold.jpg?v=1487169430" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The i-Depot functions as a charging dock for your phone or tablet plus convenient tabletop organizer. The i-Depot Plus features an additional Apple watch charging dock._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">i-DEPOT PLUS CHARGING DOCK</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">4.01" x 3.66" x 3.35"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">11.0 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Aluminum, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_accessories_i_depot_plus.png?3888482344966752291" alt="Accessory_i-Depot Plus"></p>
+<img src="//cdn.shopify.com/s/files/1/1270/3733/files/i-depot_plus.jpg?7988184875856560408" alt="Accessory_i-Depot Plus"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121094</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>VRSSPS-IDPRG</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121094</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>VRSSPS-IDPGD</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121094</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>VRSSPS-IDPSS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783121094</id>
+      <title>Titanium Silver</title>
+      <s:price currency="USD">44.99</s:price>
+      <s:sku>VRSSPS-IDPDS</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

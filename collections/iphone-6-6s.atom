@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/iphone-6-6s.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-06T16:16:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/7355414470</id>
+    <published>2017-01-06T16:16:00-08:00</published>
+    <updated>2017-01-06T16:16:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-magnetic-flat"/>
+    <title>iPhone 6/6s Case Magnetic Flat Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_dark_silver_5a71f6c2-af28-43c2-a75d-8c343d0d4564.jpg?v=1487163841" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Take your iPhone 6 / 6s out on the road with the Magnetic Flat. Combines the rugged Verge case with a magnetic vent mount for easy viewing while you drive</div><div>_</div><table class="spec-chart col-md-5 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6 / 6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">Case : 5.65" X 2.87" X 0.45" / Mount : 2.25" X 1.50"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.6 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Iron, Neodymium, Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-5 hidden-sm hidden-xs spec-img" style="margin-left: 50px;"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/magnetic-plat.png?1781806172598628961" alt="iPhone 6 / 6s_Magnetic Flat"></p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/magnetic_flat.jpg?4794928719977559827" alt="iPhone 6 / 6s_Magnetic Flat"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Duo Guard</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Military Green</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFGN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355414470</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-MGFBP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7913733254</id>
+    <published>2017-01-03T11:43:34-08:00</published>
+    <updated>2017-01-03T11:43:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/damda-glide-series-2"/>
+    <title>iPhone 6/6s Case Damda Glide Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/iphone_6_6s_damda_glide_champagne_gold_main.jpg?v=1487170721" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>The new Damda Glide for iPhone 6/6s showcases an enhanced sliding compartment. Simply push to slide open and close to access your cards_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6/6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.55" x 2.75" x 0.50"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.6 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_damda_glide.png" alt="iPhone 6/6s_Damda Glide"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/damda_glide_61004c5b-5d0d-4e67-895d-8200e08d4ad2.jpg?v=1477602872" alt="iPhone 6/6s_Damda Glide"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7913733254</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-DGLGD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7913733254</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-DGLSS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7913733254</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-DGLDS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7913733254</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>VRSI6S-DGLRG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355421126</id>
+    <published>2017-01-03T11:40:52-08:00</published>
+    <updated>2017-01-03T11:40:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-damda-clip"/>
+    <title>iPhone 6/6s Case Damda Clip Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/champagne-gold_7ffc0d45-841f-4548-99a1-5c611d4c90b0.jpg?v=1487167517" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            19.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Convenient and compact card case for your iPhone 6 / 6s. The dual-layer construction also features Military Grade Certified Drop Protection.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 6 / 6s</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">5.63" X 2.75" X 0.50"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.4 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<span class="pvideo"><br><iframe class="product-video" src="https://www.youtube.com/embed/bEOp_qPUmWw" frameborder="0" allowfullscreen=""></iframe></span>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/damda_clip_17238ca3-86af-4566-abc5-ec65727337ae.jpg?7824574430442124443" alt="iPhone 6 / 6s_Damda Clip"></p>
+<p><span><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="iPhone 6 / 6s_Damda Clip"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355421126</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">19.59</s:price>
+      <s:sku>VRSI6S-DCPDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355421126</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">19.59</s:price>
+      <s:sku>VRSI6S-DCPGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355421126</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">19.59</s:price>
+      <s:sku>VRSI6S-DCPRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355421126</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">19.59</s:price>
+      <s:sku>VRSI6S-DCPSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355421126</id>
+      <title>White</title>
+      <s:price currency="USD">19.59</s:price>
+      <s:sku>VRSI6S-DCPWE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355412870</id>
+    <published>2017-01-03T11:40:51-08:00</published>
+    <updated>2017-01-03T11:40:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-crystal-bumper"/>
+    <title>iPhone 6/6s Case Crystal Bumper Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.light_silver_7de0569a-514f-4a5f-bb22-a7b4da414ce8.jpg?v=1487169963" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for iPhone 6 / 6s. Tested and compliant Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6 / 6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.75" X 2.91" X 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.0 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_crystal_bumper.png?3185443249602467757" alt="iPhone 6 / 6s_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_a480f661-940c-4747-bfaa-5bd7b777d22c.jpg?13876832654663508407" alt="iPhone 6 / 6s_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?275005233289960335" alt="iPhone 6 / 6s_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355412870</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NCRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355412870</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NCRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355412870</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NCRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355412870</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NCRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355410566</id>
+    <published>2017-01-03T11:40:51-08:00</published>
+    <updated>2017-01-03T11:40:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-high-pro-shield"/>
+    <title>iPhone 6/6s Case High Pro Shield Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1._Satin_Silver_0ae70bbe-ab47-4427-92d2-bcdc49cacecd.jpg?v=1487170745" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for iPhone 6 / 6s. Features a brushed metal back design and boasts Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6 / 6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.75" X 2.85" X 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.0 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_high_pro_shield.png?3185443249602467757" alt="iPhone 6 / 6s_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_4f0e3864-d17a-4144-9703-6c554a5ba864.jpg?4693495032529962692" alt="iPhone 6 / 6s_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="iPhone 6 / 6s_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355410566</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NHPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355410566</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NHPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355410566</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NHPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355410566</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSI6S-NHPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355402182</id>
+    <published>2017-01-03T11:40:50-08:00</published>
+    <updated>2017-01-03T11:40:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-verge"/>
+    <title>iPhone 6/6s Case Verge Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-ChampagneGold_0fc04cad-d734-468f-87b8-7336576245d2.jpg?v=1487163952" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            19.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your iPhone 6 / 6s in the rugged Verge. Tested and compliant shock-resistant body and shell is accented with a sleek brushed metal design</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">iPhone 6 / 6s</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">5.65" X 2.87" X 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.4 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_verge.png?3185443249602467757" alt="iPhone 6 / 6s_Verge"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/verge_fd256a3d-6dbc-41ee-9b05-ffa1192e050d.jpg?5799539076759553150" alt="iPhone 6 / 6s_Verge"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="iPhone 6 / 6s_Verge"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Duo Guard</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355402182</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">19.49</s:price>
+      <s:sku>VRSI6S-VGEGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355402182</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">19.49</s:price>
+      <s:sku>VRSI6S-VGERG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355402182</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">19.49</s:price>
+      <s:sku>VRSI6S-VGEDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355402182</id>
+      <title>Military Green</title>
+      <s:price currency="USD">19.49</s:price>
+      <s:sku>VRSI6S-VGEGN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355402182</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">19.49</s:price>
+      <s:sku>VRSI6S-VGESS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355415686</id>
+    <published>2017-01-03T11:40:00-08:00</published>
+    <updated>2017-01-03T11:40:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-layered-dandy"/>
+    <title>iPhone 6/6s Case Layered Dandy Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/3.Coffee.jpg?v=1487169804" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            24.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your iPhone 6 / 6s in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 6 / 6s</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">5.63" X 2.87" X 0.63"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.7 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, PU Leather</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_layered_dandy.png?3185443249602467757" alt="iPhone 6 / 6s_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_6e4ff897-dd4a-48da-9621-1fb9dfd27b94.jpg?15740520145273260113" alt="iPhone 6 / 6s_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355415686</id>
+      <title>Coffee brown</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSI6S-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355415686</id>
+      <title>Brown</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSI6S-LDDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355415686</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSI6S-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355415686</id>
+      <title>Black</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSI6S-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355407110</id>
+    <published>2017-01-03T11:40:00-08:00</published>
+    <updated>2017-01-03T11:40:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/iphone-6-6s-case-thor"/>
+    <title>iPhone 6/6s Case Thor Series</title>
+    <s:type>iPhone 6/6s Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/6_rosegold_6cddfac8-95b3-42f1-8521-9aef158b6798.jpg?v=1487168092" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPhone 6/6s Cases<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Sleek and tough Thor for iPhone 6 / 6s features a shock absorbing body with a hard backplate that boasts Military Grade Certified Drop Protection
+<div class="label label-danger">*Final Sale item</div>
+</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">iPhone 6 / 6s</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">5.50" X 2.88" X 0.48"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.3 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_6_6s_thor.png?3185443249602467757" alt="iPhone 6 / 6s_Thor"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/thor_12e45dcb-31ca-484d-9a7b-e87c41a01127.jpg?11016249892737368729" alt="iPhone 6 / 6s_Thor"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="iPhone 6 / 6s_Thor"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:tag>Hard Drop</s:tag>
+    <s:tag>iPhone 6 / 6s</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355407110</id>
+      <title>Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSI6S-TORBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355407110</id>
+      <title>Electric Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSI6S-TORBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355407110</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSI6S-TORHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355407110</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSI6S-TORSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355407110</id>
+      <title>Champagne Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSI6S-TORGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

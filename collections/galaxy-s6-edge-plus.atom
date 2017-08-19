@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/galaxy-s6-edge-plus.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:37:18-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/7355696774</id>
+    <published>2017-01-03T11:37:18-08:00</published>
+    <updated>2017-01-03T11:37:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s6-edge-plus-case-high-pro-shield"/>
+    <title>Galaxy S6 Edge Plus Case High Pro Shield Series</title>
+    <s:type>Galaxy S6 Edge Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/VRG6P-HPSGD_cd8e674a-c037-4754-be76-40bdb3f06b27.jpg?v=1487169324" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S6 Edge Plus Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for Galaxy S6 Edge Plus. Features a brushed metal back design and boasts Military Grade Certified Drop Protection</div><div>_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">Galaxy S6 Edge Plus</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.30" x 3.25" x 0.40"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.2 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_s6_edge_plus_high_pro_shield.png?240807412209004676" alt="Galaxy S6 Edge Plus_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_b0520820-0616-40b4-b110-f48aa8e0800e.jpg?15839874595416411496" alt="Galaxy S6 Edge Plus_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Galaxy S6 Edge Plus_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S6 Edge Plus</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355696774</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355696774</id>
+      <title>Crimson Red</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-HPSRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355696774</id>
+      <title>Electric Blue</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-HPSBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355696774</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355696774</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355690758</id>
+    <published>2017-01-03T11:37:00-08:00</published>
+    <updated>2017-01-03T11:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s6-edge-plus-case-layered-dandy"/>
+    <title>Galaxy S6 Edge Plus Case Layered Dandy Series</title>
+    <s:type>Galaxy S6 Edge Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.brown_74b5dce9-01ee-4dd5-94a4-8be60c62ee82.jpg?v=1489776488" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S6 Edge Plus Cases<br>
+        <strong>Price: </strong>
+            24.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your Galaxy S6 Edge Plus in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Galaxy S6 Edge Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.25" x 3.25" x 0.63"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.9 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_s6_edge_plus_layered_dandy.png?240807412209004676" alt="Galaxy S6 Edge Plus_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_280c2569-5ceb-4cd7-b299-532bcce43af9.jpg?9021587076229902843" alt="Galaxy S6 Edge Plus_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S6 Edge Plus</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355690758</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSG6P-LDDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355690758</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSG6P-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355690758</id>
+      <title>Black</title>
+      <s:price currency="USD">24.49</s:price>
+      <s:sku>VRSG6P-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7355712134</id>
+    <published>2017-01-03T11:37:00-08:00</published>
+    <updated>2017-01-03T11:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-s6-edge-plus-case-crystal-bumper"/>
+    <title>Galaxy S6 Edge Plus Case Crystal Bumper Series</title>
+    <s:type>Galaxy S6 Edge Plus Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/VRG6P-CRBDS_1a026b36-17a2-4cf2-93c4-d1c249a3608b.jpg?v=1487169660" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy S6 Edge Plus Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for Galaxy S6 Edge Plus. Tested and compliant Military Grade Certified Drop Protection</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Galaxy S6 Edge Plus</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.25" x 3.25" x 0.37"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">0.9 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_s6_edge_plus_crystal_bumper.png?240807412209004676" alt="Galaxy S6 Edge Plus_Crystal Bumper"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_50630825-695e-463b-9c78-4f20aa3e6ef3.jpg?6813475932850762676" alt="Galaxy S6 Edge Plus_Crystal Bumper"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Galaxy S6 Edge Plus_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy S6 Edge Plus</s:tag>
+    <s:tag>sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355712134</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355712134</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355712134</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-CRBHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355712134</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7355712134</id>
+      <title>Mint</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSG6P-CRBMT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/ipad-series.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-04-27T11:46:47-07:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/10521681877</id>
+    <published>2017-04-27T11:46:47-07:00</published>
+    <updated>2017-04-27T11:46:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/ipad-pro-9-7-case-saffiano-diary-series"/>
+    <title>iPad 9.7 Case Saffiano Diary Series</title>
+    <s:type>iPad 9.7 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/ipad_9_7_saffiano_diary_black_main.jpg?v=1493324609" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>iPad 9.7 Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Style &amp; Protection for your Tablet</strong></p>
+<p>The Saffiano Diary for iPad 9.7 uses quality Saffiano leather texture to elevate style and usability to your iPad. Cover includes sleep/wake functionality and allows you to fold it into a kickstand for convenient hands-free viewing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vrsdesign.com/products/10521681877</id>
+      <title>Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIPN-SFARD</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/10521681877</id>
+      <title>Dark Blue</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIPN-SFADB</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/10521681877</id>
+      <title>Black</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIPN-SFABK</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/10521681877</id>
+      <title>Brown</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSIPN-SFABR</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/lg-g5.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:45:03-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/7356644166</id>
+    <published>2017-01-03T11:45:03-08:00</published>
+    <updated>2017-01-03T11:45:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g5-case-high-pro-shield"/>
+    <title>LG G5 Case High Pro Shield Series</title>
+    <s:type>LG G5 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/3.shine_gold_8b3ae463-436e-43d6-86e1-af5759d8455f.jpg?v=1487163473" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G5 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for LG G5. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">LG G5</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.15" x 3.15" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.3 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_lg_g5_high_pro_shield.png?14087773965599193842" alt="LG G5_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_576daa10-21e9-4cc6-ae2b-e4e66fca549a.jpg?4862561590826457848" alt="LG G5_High Pro Shield"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="LG G5_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G5</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356644166</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356644166</id>
+      <title>Steel Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356644166</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356644166</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356648262</id>
+    <published>2017-01-03T11:45:03-08:00</published>
+    <updated>2017-01-03T11:45:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g5-case-crystal-bumper"/>
+    <title>LG G5 Case Crystal Bumper Series</title>
+    <s:type>LG G5 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.satin_silver_1bb9f546-a5ef-4cba-bcfc-57220be74f3a.jpg?v=1487170371" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G5 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your device in the clear Crystal Bumper with metallic colored bumpers for LG G5. Tested and compliant Military Grade Certified Drop Protection._</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">LG G5</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.20" x 3.20" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.3 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_lg_g5_crystal_bumper.png?14087773965599193842" alt="LG G5_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_42d58b88-8924-45f6-94b7-2290bade7660.jpg?13687237143614771250" alt="LG G5_Crystal Bumper"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="LG G5_Crystal Bumper"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G5</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356648262</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356648262</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356648262</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356648262</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG5-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356633350</id>
+    <published>2017-01-03T11:45:03-08:00</published>
+    <updated>2017-01-03T11:45:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g5-case-single-fit"/>
+    <title>LG G5 Case Single Fit Series</title>
+    <s:type>LG G5 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.blossom_red_f50eddc6-2b3d-4203-bc9f-36c2e2b8bb27.jpg?v=1487163172" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G5 Cases<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Matte TPU hugs every edge of your LG G5. Also features eye-catching metallic button accents_</div><table class="spec-chart col-md-6 col-xs-12"><tbody><tr><th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th></tr></tbody><tbody><tr class="spec-r"><td class="spec-d spec-bold">Device</td><td class="spec-d spec-des">LG G5</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Dimensions</td><td class="spec-d spec-des">6.00" x 3.10" x 0.45"</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Weight</td><td class="spec-d spec-des">1.2 oz</td></tr><tr class="spec-r"><td class="spec-d spec-bold">Material</td><td class="spec-d spec-des">Thermoplastic Polyurethane</td></tr></tbody></table><p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_lg_g5_single_fit.png?2093514471005309043" alt="LG G5_Single Fit"></p><p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/single_fit_90621703-dfd6-45a6-bd83-5f6b4c0d2ffd.jpg?45794042953871677" alt="LG G5_Single Fit"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G5</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356633350</id>
+      <title>Blossom Red</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSLG5-SFTRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356633350</id>
+      <title>Smokey Gray</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSLG5-SFTSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356633350</id>
+      <title>Phantom Black</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSLG5-SFTDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356633350</id>
+      <title>Snow Pink</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSLG5-SFTHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356633350</id>
+      <title>Ice Mint</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VRSLG5-SFTMT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356627910</id>
+    <published>2017-01-03T11:45:02-08:00</published>
+    <updated>2017-01-03T11:45:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g5-case-layered-dandy"/>
+    <title>LG G5 Case Layered Dandy Series</title>
+    <s:type>LG G5 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1.brown_0d7ed92a-c45f-4d04-b6ff-b3cb4a60150f.jpg?v=1487164214" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G5 Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your LG G5 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G5</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.00" x 3.20" x 0.60"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.9 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_lg_g5_layered_dandy.png?2093514471005309043" alt="LG G5_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_f704f162-ccbc-4910-b585-d751ddaba901.jpg?3364164357221914489" alt="LG G5_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G5</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356627910</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG5-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356627910</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG5-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356627910</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG5-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/7356640326</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g5-case-shine-guard"/>
+    <title>LG G5 Case Shine Guard Series</title>
+    <s:type>LG G5 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-clear_838a7517-950d-42f7-9ff7-b8b5dfd6eab6.jpg?v=1487163544" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G5 Cases<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Showcase your LG G5 with the Shine Guard. Designed with impact-resistant bumpers and a frosted geometric design_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G5</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.00" x 3.10" x 0.45"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.1 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product-specs_lg_g5_shine_guard.png?2093514471005309043" alt="LG G5_Shine Guard"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/shine_guard_80212b3a-3231-4e46-942e-17e60e32b573.jpg?13392933774615366230" alt="LG G5_Shine Guard"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G5</s:tag>
+    <s:tag>winter sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356640326</id>
+      <title>Clear</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG5-SGDCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356640326</id>
+      <title>Gray</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG5-SGDGY</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/7356640326</id>
+      <title>Black</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG5-SGDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

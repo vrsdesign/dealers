@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/accessories-backpack.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:50:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6783118790</id>
+    <published>2017-01-03T11:50:00-08:00</published>
+    <updated>2017-01-03T11:50:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/backpack-ark"/>
+    <title>Accessories Ark Backpack</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/3-Military_Black.jpg?v=1487162819" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            99.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Designed for the modern commuter, organize and carry your laptop and tech essentials in the Ark backpack. Includes multi-use compartments and pockets to adapt to your on-the-go lifestyle._</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Backpack</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">12.6" x 7.00" x 20.0"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">5.0 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Nylon</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_backpack_ark.png?3888482344966752291" alt="Bags_Ark"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/ark.jpg?3721363283731714336" alt="Bags_Ark"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backpack</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118790</id>
+      <title>Military black</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>VRSACY-ARKMB</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118790</id>
+      <title>Black</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>VRSACY-ARKBK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783118790</id>
+      <title>Gray</title>
+      <s:price currency="USD">99.99</s:price>
+      <s:sku>VRSACY-ARKGY</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

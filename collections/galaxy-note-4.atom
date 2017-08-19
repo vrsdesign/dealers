@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/galaxy-note-4.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-09T15:49:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/9028199046</id>
+    <published>2017-01-09T15:49:00-08:00</published>
+    <updated>2017-01-09T15:49:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-4-case-crystal-mixx-series"/>
+    <title>Galaxy Note 4 Case Crystal Mixx Series</title>
+    <s:type>Clearance</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_transparency.jpg?v=1487160253" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Clearance<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Show off your device in the clear Crystal Mixx for Galaxy Note 4</div>
+<div class="label label-danger">*Final Sale item</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9028199046</id>
+      <title>Clear</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>VRSGN4-CMXCL</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9028199046</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>VRSGN4-CMXHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9028199046</id>
+      <title>Mint</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>VRSGN4-CMXMT</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9028199046</id>
+      <title>White</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>VRSGN4-CMXWE</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9028199046</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">11.99</s:price>
+      <s:sku>VRSGN4-CMXDS</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9083776390</id>
+    <published>2017-01-09T15:49:00-08:00</published>
+    <updated>2017-01-09T15:49:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-4-case-thor-series"/>
+    <title>Galaxy Note 4 Case Thor Series</title>
+    <s:type>Clearance</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_copper_gold.jpg?v=1487165456" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Clearance<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Sleek and tough Thor for Galaxy Note 4 features a shock absorbing body with a hard backplate that boasts Military Grade Certified Drop Protection.</div>
+<div class="label label-danger">*Final Sale item</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Hard Drop</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9083776390</id>
+      <title>Copper Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSGN4-TORGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9083776390</id>
+      <title>Electric Blue</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSGN4-TORBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9083776390</id>
+      <title>Hot Pink</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSGN4-TORHP</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9083776390</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSGN4-TORSS</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9083776390</id>
+      <title>Charcoal Black</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSGN4-TORBK</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783126982</id>
+    <published>2017-01-03T11:37:00-08:00</published>
+    <updated>2017-01-03T11:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/galaxy-note-4-case-layered-dandy"/>
+    <title>Galaxy Note 4 Case Layered Dandy Series</title>
+    <s:type>Galaxy Note 4 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/Galaxy-Note-4-Case-Layered-Dandy-Brown1_9ae1edf9-01cd-4380-ae5a-2fb442aee216.jpg?v=1487170313" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Galaxy Note 4 Cases<br>
+        <strong>Price: </strong>
+            15.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your Galaxy Note 4 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device <span class="label label-danger">*Final Sale item</span>
+</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Galaxy Note 4</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.12" x 3.37" x 0.87"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.1 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_note_4_layered_dandy.png?2402214012465363029" alt="Galaxy Note 4_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_8a7a20e9-5928-4f5d-9da4-9fba98f73868.jpg?11788285944523033372" alt="Galaxy Note 4_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Galaxy Note 4</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>wallet</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783126982</id>
+      <title>Brown</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>VRSGN4-LDDBN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783126982</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>VRSGN4-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783126982</id>
+      <title>Black</title>
+      <s:price currency="USD">15.75</s:price>
+      <s:sku>VRSGN4-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

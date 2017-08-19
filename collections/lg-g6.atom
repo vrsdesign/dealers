@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/lg-g6.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-03-15T09:30:00-07:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/9974662918</id>
+    <published>2017-03-15T09:30:00-07:00</published>
+    <updated>2017-03-15T09:30:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-genuine-croco-diary-series"/>
+    <title>LG G6 Case Genuine Croco Diary Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_genuine_croco_diary_dark_gold_main.jpg?v=1489596084" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b>Make a Statement</b><br> The Genuine Croco Diary LG G6 case wraps your LG in stylish leather accents. Let the distinct crocodile print amplify your style. Find leather wrapped card slots and pockets to carry all your everyday essentials.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G6</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.1" x 2.95" x 0.63"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.8 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Genuine Leather</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/genuine_croco_diary_65dcbcdc-5767-4982-93c4-aec6d4845ec0.jpg" alt="VRS Design LG G6 Case, Genuine Leather Croco Diary Series"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9974662918</id>
+      <title>Satin Blue</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSLG6-GCDBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9974662918</id>
+      <title>Plum Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSLG6-GCDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9974662918</id>
+      <title>Dark Gold</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSLG6-GCDGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9550674950</id>
+    <published>2017-02-14T13:12:00-08:00</published>
+    <updated>2017-02-14T13:12:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-genuine-leather-diary"/>
+    <title>LG G6 Case Genuine Leather Diary Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_genuine_leather_diary_brown_main.jpg?v=1487107519" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b>Quality that Lasts</b> <br>Genuine Leather Diary covers your LG G6 with premium leather protection and provides space for all your daily essentials. Combine your most essential possessions into one convenient and stylish package.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G6</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.15" x 3.15" x 0.71"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.9 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Genuine Leather</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/genuine_leather_diary_567df8ff-b2f1-4126-9cea-f221eb1a25a0.jpg" alt="VRS Design LG G6 Case, Genuine Leather Diary Series"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9550674950</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSLG6-GLDRD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9550674950</id>
+      <title>Brown</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VRSLG6-GLDBN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9439576006</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-simpli-mod-series"/>
+    <title>LG G6 Case Simpli Mod Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_simpli_mod_black_main.jpg?v=1489276342" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<span><b>Modern + Simplicity</b> <br>Style your device with modern leather accents. The Simpli Mod LG G6 case </span><span>artfully combines two premium materials into one lightweight package.</span>
+</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G6</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">5.98" x 2.95" x 0.47"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.06 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, PU Leather</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/simpli_mod_631c19fb-b235-4010-a53d-d6faa0d4aad9.jpg" alt="LG G6 Case, VRS Design Simpli Mod Series Black"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9439576006</id>
+      <title>Black</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSLG6-SMDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9439576006</id>
+      <title>Brown</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>VRSLG6-SMDBR</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9419350982</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-crystal-bumper-series"/>
+    <title>LG G6 Case Crystal Bumper Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_crystal_bumper_dark_silver_main_404ee1a9-f986-4963-9db9-ab4cccb01b15.jpg?v=1488392884" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b>Crystal Clear Design</b> <br>The Crystal Bumper LG G6 case is perfect for showcasing your device without sacrificing protection.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G6</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.07" x 3.06" x 0.46"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.34 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/crystal_bumper_d5499148-d027-432c-a060-d2ba63c8fc44.jpg" alt="VRS Design LG G6 Case, Crystal Bumper Series"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419350982</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-CRBDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419350982</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-CRBGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419350982</id>
+      <title>Blue Mist</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-CRBBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419350982</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-CRBSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419350982</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-CRBRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9419467526</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-high-pro-shield-series"/>
+    <title>LG G6 Case High Pro Shield Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_high_pro_shield_dark_silver_main.jpg?v=1488843008" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<b>Pocket-friendly Protection</b> <br>Protect your device with the shock-resistant High Pro Shield for LG G6.</div>
+<div>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G6</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.07" x 3.06" x 0.46"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.34 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_e45e3f22-ac15-4c75-9da1-5ea1c582f7f9.jpg" alt="VRS Design LG G6 Case, Simpli Fit Series"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G5</s:tag>
+    <s:tag>LG G6</s:tag>
+    <s:tag>Pre Order</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419467526</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419467526</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419467526</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419467526</id>
+      <title>Rose Gold</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-HPSRG</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9419467526</id>
+      <title>Blue Mist</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>VRSLG6-HPSBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/9438273414</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g6-case-layered-dandy-series"/>
+    <title>LG G6 Case Layered Dandy Series</title>
+    <s:type>LG G6 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/lg_g6_layered_dandy_coffee_brown_main.jpg?v=1489968602" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G6 Cases<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<meta charset="utf-8">
+<span><b>Classic Leather Wallet</b> <br>Wrap your LG G6 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device.</span>
+</div>
+<div>_</div>
+<p><img src="https://cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_0c45da53-be44-4bdf-a201-2560cda02d25.jpg" alt="VRS Design LG G6 Case, Layered Dandy Series"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LG G6</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9438273414</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG6-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9438273414</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG6-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/9438273414</id>
+      <title>Black</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VRSLG6-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

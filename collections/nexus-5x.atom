@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/nexus-5x.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-05T10:20:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6782965446</id>
+    <published>2017-01-05T10:20:00-08:00</published>
+    <updated>2017-01-05T10:20:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/nexus-5x-case-high-pro-shield"/>
+    <title>Nexus 5X Case High Pro Shield Series</title>
+    <s:type>Nexus 5X Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-ShineGold.jpg?v=1487158939" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>Nexus 5X Cases<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your device with the shock-resistant High Pro Shield for Nexus 5x. Features a brushed metal back design and boasts Military Grade Certified Drop Protection_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">Nexus 5X</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.00" x 3.12" x 0.40"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.1 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_nexus_5x_high_pro_shield.png?13606518232804607913" alt="Nexus 5x_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/high_pro_shield_15235d41-5e94-4431-bc11-b6177b64bcf2.jpg?4503909034801765169" alt="Nexus 5x_High Pro Shield"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_1_eddd8e33-034b-4e64-af49-6372fb538f8d.jpg?9654548495155906217" alt="Nexus 5x_High Pro Shield"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Nexus 5X</s:tag>
+    <s:tag>sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965446</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX5X-HPSGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965446</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX5X-HPSDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965446</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX5X-HPSSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965446</id>
+      <title>Crimson Red</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX5X-HPSRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6782965446</id>
+      <title>Electric Blue</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VRSNX5X-HPSBE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>

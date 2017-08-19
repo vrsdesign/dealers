@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vrsdesign.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vrsdesign.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vrsdesign.com/collections/lg-g4.atom"/>
+  <title>VRS Design</title>
+  <updated>2017-01-03T11:45:00-08:00</updated>
+  <author>
+    <name>VRS Design</name>
+  </author>
+  <entry>
+    <id>https://vrsdesign.com/products/6783119622</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g4-case-layered-dandy"/>
+    <title>LG G4 Case Layered Dandy Series</title>
+    <s:type>LG G4 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1_front_457b8b85-f0be-470e-bdb3-3cbdf8077fa7.jpg?v=1487166621" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G4 Cases<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Wrap your LG G4 in timeless Layered Dandy style. Soft PU leather and detailed stitching complement your device_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G4</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">5.87" x 3.20" x 0.65"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">2.1 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">PU Leather, Polycarbonate</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_g4_layered_dandy.png?2093514471005309043" alt="LG G4_Layered Dandy"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/layered_dandy_b38d058e-028e-447d-a677-80172c7fdec6.jpg?11867461939280149672" alt="LG G4_Layered Dandy"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119622</id>
+      <title>Coffee Brown</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG4-LDDCE</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119622</id>
+      <title>Black</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG4-LDDBK</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119622</id>
+      <title>Wine Red</title>
+      <s:price currency="USD">27.99</s:price>
+      <s:sku>VRSLG4-LDDRD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783119494</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g4-case-thor"/>
+    <title>LG G4 Case Thor Series</title>
+    <s:type>LG G4 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-Dark-Silver.jpg?v=1487167911" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G4 Cases<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Sleek and tough Thor for LG G4 features a shock absorbing body with a hard backplate that boasts Military Grade Certified Drop Protection <br><span class="label label-danger">*Final Sale item</span>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G4</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.10" x 3.25" x 0.50"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.7 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_g4_thor.png?2093514471005309043" alt="LG G4_Thor"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/thor_0fef006a-17d3-45da-baa7-7ceeae4a0fac.jpg?10244752165118566053" alt="LG G4_Thor"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="LG G4_Thor"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Hard Drop</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119494</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-TORGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119494</id>
+      <title>Dark Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-TORDS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119494</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-TORSS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119494</id>
+      <title>Military Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-TORGN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vrsdesign.com/products/6783119430</id>
+    <published>2017-01-03T11:45:00-08:00</published>
+    <updated>2017-01-03T11:45:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vrsdesign.com/products/lg-g4-case-verge"/>
+    <title>LG G4 Case Verge Series</title>
+    <s:type>LG G4 Cases</s:type>
+    <s:vendor>VRS Design</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1270/3733/products/1-Shine-Gold_a326ffe2-506c-45a5-be42-9c076a85f231.jpg?v=1487160858" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>VRS Design<br>
+        <strong>Type: </strong>LG G4 Cases<br>
+        <strong>Price: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Protect your LG G4 in the rugged Verge. Tested and compliant shock-resistant body and shell is accented with a sleek brushed metal design <br><span class="label label-danger">*Final Sale item</span>_</div>
+<table class="spec-chart col-md-6 col-xs-12">
+<tbody>
+<tr>
+<th class="spec-h" colspan="2">PRODUCT SPECIFICATIONS</th>
+</tr>
+</tbody>
+<tbody>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Device</td>
+<td class="spec-d spec-des">LG G4</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Dimensions</td>
+<td class="spec-d spec-des">6.12" x 3.15" x 0.48"</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Weight</td>
+<td class="spec-d spec-des">1.5 oz</td>
+</tr>
+<tr class="spec-r">
+<td class="spec-d spec-bold">Material</td>
+<td class="spec-d spec-des">Polycarbonate, Thermoplastic Polyurethane</td>
+</tr>
+</tbody>
+</table>
+<p class="col-md-6 col-md-push-1 hidden-sm hidden-xs spec-img"><img class="spec-device" src="https://cdn.shopify.com/s/files/1/1270/3733/files/product_specs_g4_verge.png?2093514471005309043" alt="LG G4_Verge"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/verge_2d257fcb-74a8-4dc9-9513-66850059acea.jpg?6173218186606345356" alt="LG G4_Verge"></p>
+<p><img src="//cdn.shopify.com/s/files/1/1270/3733/files/Installation_2_47d09da3-3e24-4dbc-b6f0-44368006c77b.jpg?9654548495155906217" alt="LG G4_Verge"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Android</s:tag>
+    <s:tag>Duo Guard</s:tag>
+    <s:tag>LG G4</s:tag>
+    <s:tag>Sale</s:tag>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119430</id>
+      <title>Shine Gold</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-VGEGD</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119430</id>
+      <title>Satin Silver</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-VGESS</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vrsdesign.com/products/6783119430</id>
+      <title>Military Green</title>
+      <s:price currency="USD">12.99</s:price>
+      <s:sku>VRSLG4-VGEGN</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+</feed>
